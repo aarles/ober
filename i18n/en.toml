@@ -1,35 +1,35 @@
 [all]
-other = "All"
+other = "Todos"
 
 [readMore]
-other = "Read more"
+other = "Leia mais"
 
 [by]
-other = "By"
+other = "Por"
 
 [yourName]
-other = "Name"
+other = "Nome"
 
 [enterYourName]
-other = "Enter your full name"
+other = "EInsira seu nome completo"
 
 [yourEmail]
-other = "Email Address"
+other = "Endereço de Email"
 
 [enterYourEmail]
-other = "Enter your email address"
+other = "EInsira seu Email"
 
 [yourMessage]
-other = "Message"
+other = "Mensagem"
 
 [enterYourMessage]
-other = "Enter your message here"
+other = "Insira sua mensagem aqui"
 
 [submit]
-other = "Submit"
+other = "Enviar"
 
 [latestPosts]
-other = "Latest Posts"
+other = "Último post"
 
 [taxonomyPageList]
 other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
@@ -39,37 +39,37 @@ one = "1 min read"
 other = "{{ .Count }} mins read"
 
 [share]
-other = "Share"
+other = "Compartilhar"
 
 [shareOn]
-other = "Share on"
+other = "Compartilhar em"
 
 [tags]
 other = "Tags"
 
 [comments]
-other = "Comments"
+other = "Comentários"
 
 [nextPost]
-other = "Next Post"
+other = "Próxima"
 
 [prevPost]
-other = "Previous Post"
+other = "Anterior"
 
 [nextProject]
-other = "Next Project"
+other = "Próximo projeto"
 
 [prevProject]
-other = "Previous Project"
+other = "Projeto anterior"
 
 [successMessage]
-other = "Thanks, your message is sent successfully."
+other = "Obrigado, sua mensagem foi enviada."
 
 [developedBy]
-other = "Developed By"
+other = "Desenvolvido por"
 
 [category]
-other = "Category"
+other = "Categoria"
 
 [errorNum]
 other = "404"
