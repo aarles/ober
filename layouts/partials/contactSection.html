@@ -31,22 +31,22 @@
         <div class="contacts-form scrolla-element-anim-1 scroll-animate" data-animate="active">
           <form id="cform" action="{{ $action }}" method="post">
             <label>
-              {{ i18n "yourName" }}
-              <input type="text" name="name" placeholder="{{ i18n "enterYourName" }}" />
+              Nome
+              <input type="text" name="name" placeholder="Insira seu nome" />
             </label>
             <label>
-              {{ i18n "yourEmail" }}
-              <input type="email" name="email" placeholder="{{ i18n "enterYourEmail" }}" />
+              E-mail
+              <input type="email" name="email" placeholder="Insira seu E-mail" />
             </label>
             <label>
-              {{ i18n "yourMessage" }}
-              <textarea name="message" placeholder="{{ i18n "enterYourEmail" }}"></textarea>
+              Mensagem
+              <textarea name="message" placeholder="Insira sua mensagem aqui"></textarea>
             </label>
-            <button type="submit" class="btn">{{ i18n "submit" }}</button>
+            <button type="submit" class="btn">Enviar</button>
           </form>
         </div>
         <div class="alert-success" id="formAlertSuccess" style="display: none;">
-          <p>{{ i18n "successMessage" }}</p>
+          <p>Mensagem enviada com sucesso!</p>
         </div>
 
       </div>
