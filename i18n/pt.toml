@@ -1,0 +1,81 @@
+[all]
+other = "Todos"
+
+[readMore]
+other = "Leia mais"
+
+[by]
+other = "Por"
+
+[yourName]
+other = "Nome"
+
+[enterYourName]
+other = "Insira seu nome completo"
+
+[yourEmail]
+other = "Endereço de Email"
+
+[enterYourEmail]
+other = "EInsira seu Email"
+
+[yourMessage]
+other = "Mensagem"
+
+[enterYourMessage]
+other = "Insira sua mensagem aqui"
+
+[submit]
+other = "Enviar"
+
+[latestPosts]
+other = "Último post"
+
+[taxonomyPageList]
+other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+
+[readingTime]
+one = "1 min read"
+other = "{{ .Count }} mins read"
+
+[share]
+other = "Compartilhar"
+
+[shareOn]
+other = "Compartilhar em"
+
+[tags]
+other = "Tags"
+
+[comments]
+other = "Comentários"
+
+[nextPost]
+other = "Próxima"
+
+[prevPost]
+other = "Anterior"
+
+[nextProject]
+other = "Próximo projeto"
+
+[prevProject]
+other = "Projeto anterior"
+
+[successMessage]
+other = "Obrigado, sua mensagem foi enviada."
+
+[developedBy]
+other = "Desenvolvido por"
+
+[category]
+other = "Categoria"
+
+[errorNum]
+other = "404"
+
+[errorTitle]
+other = "Whoops!"
+
+[errorText]
+other = "The page you’re looking for doesn’t exist or has been moved."
